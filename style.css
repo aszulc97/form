@@ -5,6 +5,7 @@ body {
 form,
 input {
   display: block;
+  margin: 0.5em;
 }
 
 /* label {
