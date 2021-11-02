@@ -1,0 +1,12 @@
+body {
+  background-color: lemonchiffon;
+}
+
+form,
+input {
+  display: block;
+}
+
+/* label {
+  float: left;
+} */
